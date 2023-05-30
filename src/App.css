@@ -1,0 +1,11 @@
+body {
+	background-color: #efe5f7;
+}
+
+.MuiButton-text {
+	text-transform: none !important;
+}
+
+label[data-shrink=false]+.MuiInputBase-formControl .css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+	height: 20px;
+}
