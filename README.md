@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 for install node_module
 
-### `
+You need to modify the .env file to configure the port on which your backend listens if it doesn't listen on port 8080.
 
 ### `npm start`
 
