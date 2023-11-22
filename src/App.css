@@ -9,3 +9,7 @@ body {
 label[data-shrink=false]+.MuiInputBase-formControl .css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
 	height: 20px;
 }
+
+.MuiInputBase-input {
+	height: 20px;
+}
